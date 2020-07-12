@@ -10,3 +10,5 @@
 - 📧 Contact me by email: beihai@wingsxdu.com
 
 I've learned a lot from Open Source Software, hopefully I can contribute to them.
+
+Oh, I also like music, film and artistic performance, these things make my life better !
