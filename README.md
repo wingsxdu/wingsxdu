@@ -12,5 +12,3 @@
 I've learned a lot from Open Source Software, hopefully I can contribute to them.
 
 I also like music, film and artistic performance, these things make my life better!
-
-And I'm looking for job now.
